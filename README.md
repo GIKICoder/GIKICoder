@@ -1,6 +1,4 @@
-# 👋 Hi, I’m GIKICoder!
-
-# GIKICoder 👾
+# 👋 Hi, I’m GIKICoder! 👾
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Passionate+iOS+Developer;AI+is+the+future!)
 
